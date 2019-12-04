@@ -8,6 +8,7 @@ __pycache__/
 
 #windows
 .idea/
+.vscode/
 desktop.ini
 db.sqlite3
 
